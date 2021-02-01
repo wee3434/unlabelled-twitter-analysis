@@ -6,6 +6,11 @@ To use content analysis of tweets to identify the community sentiment towards RA
  
 ### 2. Methods
 
-This solution performs sentiment and thematic analysis in a sequential way as follows to provide effective community perception analysis as follows. 
-![alt text](https://github.com/wee3434/unlabelled-twitter-analysis/blob/master/proposedFramework.jpg)
+Combined sentiment and thematic analysis in a sequential way is proposed and used to provide effective community perception analysis as follows. 
+
+![alt text](https://github.com/wee3434/unlabelled-twitter-analysis/blob/master/Image/proposedFramework.png)
  
+ 
+Below framework is proposed to perform sentiment analysis with the least manual annotation on un-labelled dataset while combining the benefits of lexicon and machine-learning based approaches. To overcome biasness and attain better quality performance, I added 10% of manual annotated data. The best performing machine learning model can be different by dataset and chosen by comparison. Here, I fitted and compared CNN, SVM, NB and logistic regression. 
+
+![alt text](https://github.com/wee3434/unlabelled-twitter-analysis/blob/master/Image/sentimentAnalysis.png)
