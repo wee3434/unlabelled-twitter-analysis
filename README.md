@@ -6,6 +6,6 @@ To use content analysis of tweets to identify the community sentiment towards RA
  
 ### 2. Methods
 
-
-
+This solution performs sentiment and thematic analysis in a sequential way as follows to provide effective community perception analysis as follows. 
+![alt text](https://github.com/wee3434/unlabelled-twitter-analysis/blob/master/proposedFramework.jpg)
  
